@@ -1,4 +1,4 @@
-This repository contains example private keys for Variscite's i.MX8 and i.MX8M family modules.
+This repository contains example private keys for Variscite's i.MX8, i.MX8M and i.MX9 family modules.
 
 For more information, please visit Variscite's [i.MX8 High Assurance Boot](https://variwiki.com/index.php?title=High_Assurance_Boot_MX8) guide.
 
